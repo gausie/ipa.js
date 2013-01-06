@@ -13,9 +13,9 @@ Using it is very simple.
 * Include speak.js files and ipa.js in your document header
 
       ```
-      <script src="ipa.js"></script>
-      <script src="./speak.js/speakClient.js"></script>
-      <script src="./speak.js/speakGenerator.js"></script>
+<script src="ipa.js"></script>
+<script src="./speak.js/speakClient.js"></script>
+<script src="./speak.js/speakGenerator.js"></script>
       ```
 
 * For speak.js, add a div with an audio element called 'audio' in your html body,
